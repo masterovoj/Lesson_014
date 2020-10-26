@@ -599,6 +599,10 @@
   text-align: center;
 }
 
+.training__image img {
+  max-width: 100%;
+}
+
 .training__text {
   text-align: center;
 }
