@@ -586,13 +586,13 @@
   text-decoration: none;
 }
 
-.training__item-wrap {
-  padding: 25px;
-}
-
-.training__item-wrap:hover {
+.training__item:hover {
   -webkit-box-shadow: 0 2px 15px rgba(0, 0, 0, 0.384);
           box-shadow: 0 2px 15px rgba(0, 0, 0, 0.384);
+}
+
+.training__item-wrap {
+  padding: 25px;
 }
 
 .training__image {
